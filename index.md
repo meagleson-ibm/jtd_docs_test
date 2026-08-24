@@ -446,5 +446,3 @@
                 -   [Supported functions](id_docs/testbench/tb_adv_supported_fn.md)
                 -   [Additional functions](id_docs/testbench/tb_adv_additional_fn.md)
             -   [SmartContact](id_docs/testbench/tb_smart_contact.md)
-    -   [Glossary of terms](id_docs/id_glossary.md)
-
